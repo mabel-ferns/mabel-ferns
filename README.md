@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Mabel Jacquelin Fernandes 👋
+
+🎓 B.Tech CSE Student (1st Year)  
+🏫 VIT Bhopal University  
+
+💡 I am interested in learning programming, AI/ML, and building real-world projects.
+
+🚀 Currently learning:
+- Python
+- Data Structures
+- Web Development
 
 <!--
 **mabel-ferns/mabel-ferns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
