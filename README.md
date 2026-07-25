@@ -9,7 +9,8 @@
 - Python
 - Machine Learning
 - Fundamentals of Java programming
-  I love to work on real world projects especially heathcare related one which gives me an edge and keeps me motivated.
+
+  💡 I love to work on real world projects especially heathcare related one which gives me an edge and keeps me motivated.
 
 <!--
 **mabel-ferns/mabel-ferns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
